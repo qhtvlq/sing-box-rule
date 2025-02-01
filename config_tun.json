@@ -11,13 +11,13 @@
                 "tag": "dns_direct",
                 "server": "202.100.128.68",
                 "server_port": 53,
-                "detour": "🎯 全球直连"
+                "detour": "🎯全球直连"
             },
             {
                 "type": "tls",
                 "tag": "dns_proxy",
                 "server": "8.8.8.8",
-                "detour": "🚀 节点选择"
+                "detour": "🚀节点选择"
             }
         ],
         "rules": [
